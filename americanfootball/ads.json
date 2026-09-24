@@ -11,7 +11,7 @@
           "Points": 2,
           "GoalsFor": 62,
           "Position": 1,
-          "TeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/sf.png",
+          "TeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500",
           "TeamName": "San Francisco 49ers",
           "GoalsAgainst": 20,
           "GoalDifference": 42
@@ -25,7 +25,7 @@
           "Points": 2,
           "GoalsFor": 44,
           "Position": 2,
-          "TeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
+          "TeamLogo": "https://a.espncdn.com/i/teamlogos/nf",
           "TeamName": "Seattle Seahawks",
           "GoalsAgainst": 17,
           "GoalDifference": 27
@@ -39,7 +39,7 @@
           "Points": 2,
           "GoalsFor": 53,
           "Position": 3,
-          "TeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+          "TeamLogo": "https://a.espncdn.com/i/teamlogos/n",
           "TeamName": "Las Vegas Raiders",
           "GoalsAgainst": 27,
           "GoalDifference": 26
@@ -53,7 +53,7 @@
           "Points": 2,
           "GoalsFor": 64,
           "Position": 4,
-          "TeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png",
+          "TeamLogo": "https://a.espncdn.com/i/teamlog",
           "TeamName": "Kansas City Chiefs",
           "GoalsAgainst": 40,
           "GoalDifference": 24
@@ -67,7 +67,7 @@
           "Points": 2,
           "GoalsFor": 48,
           "Position": 5,
-          "TeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+          "TeamLogo": "https://a.espncdn.com/i/teamlo",
           "TeamName": "Minnesota Vikings",
           "GoalsAgainst": 25,
           "GoalDifference": 23
@@ -81,7 +81,7 @@
           "Points": 2,
           "GoalsFor": 53,
           "Position": 6,
-          "TeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/cin.png",
+          "TeamLogo": "https://a.espncdn.com/i/teamlogos/",
           "TeamName": "Cincinnati Bengals",
           "GoalsAgainst": 33,
           "GoalDifference": 20
@@ -95,7 +95,7 @@
           "Points": 2,
           "GoalsFor": 77,
           "Position": 7,
-          "TeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+          "TeamLogo": "https://a.espncdn.com/i/tea",
           "TeamName": "Buffalo Bills",
           "GoalsAgainst": 62,
           "GoalDifference": 15
@@ -109,7 +109,7 @@
           "Points": 2,
           "GoalsFor": 48,
           "Position": 8,
-          "TeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
+          "TeamLogo": "https://a.espncdn.com/i/team",
           "TeamName": "Philadelphia Eagles",
           "GoalsAgainst": 42,
           "GoalDifference": 6
@@ -123,7 +123,7 @@
           "Points": 1,
           "GoalsFor": 47,
           "Position": 9,
-          "TeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+          "TeamLogo": "https://a.espncdn.com/i/teamlo",
           "TeamName": "Jacksonville Jaguars",
           "GoalsAgainst": 30,
           "GoalDifference": 17
@@ -137,7 +137,7 @@
           "Points": 1,
           "GoalsFor": 62,
           "Position": 10,
-          "TeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/chi.png",
+          "TeamLogo": "https://a.espncdn.com/i/teamlogos",
           "TeamName": "Chicago Bears",
           "GoalsAgainst": 46,
           "GoalDifference": 16
@@ -151,7 +151,7 @@
           "Points": 1,
           "GoalsFor": 30,
           "Position": 11,
-          "TeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+          "TeamLogo": "https://a.espncdn.com/i/teamlogos",
           "TeamName": "New England Patriots",
           "GoalsAgainst": 16,
           "GoalDifference": 14
@@ -165,7 +165,7 @@
           "Points": 1,
           "GoalsFor": 58,
           "Position": 12,
-          "TeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+          "TeamLogo": "https://a.espncdn.com/i/teamlogo",
           "TeamName": "Baltimore Ravens",
           "GoalsAgainst": 47,
           "GoalDifference": 11
@@ -179,7 +179,7 @@
           "Points": 1,
           "GoalsFor": 40,
           "Position": 13,
-          "TeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+          "TeamLogo": "https://a.espncdn.com/i/teamlogos/n",
           "TeamName": "New York Jets",
           "GoalsAgainst": 30,
           "GoalDifference": 10
@@ -193,7 +193,7 @@
           "Points": 1,
           "GoalsFor": 71,
           "Position": 14,
-          "TeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+          "TeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/50",
           "TeamName": "Carolina Panthers",
           "GoalsAgainst": 62,
           "GoalDifference": 9
@@ -207,7 +207,7 @@
           "Points": 1,
           "GoalsFor": 57,
           "Position": 15,
-          "TeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+          "TeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/png",
           "TeamName": "Dallas Cowboys",
           "GoalsAgainst": 48,
           "GoalDifference": 9
@@ -221,7 +221,7 @@
           "Points": 1,
           "GoalsFor": 54,
           "Position": 16,
-          "TeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/no.png",
+          "TeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/o.png",
           "TeamName": "New Orleans Saints",
           "GoalsAgainst": 48,
           "GoalDifference": 6
@@ -235,7 +235,7 @@
           "Points": 1,
           "GoalsFor": 35,
           "Position": 17,
-          "TeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/lar.png",
+          "TeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500lar.png",
           "TeamName": "Los Angeles Rams",
           "GoalsAgainst": 33,
           "GoalDifference": 2
@@ -249,7 +249,7 @@
           "Points": 1,
           "GoalsFor": 62,
           "Position": 18,
-          "TeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+          "TeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500et.png",
           "TeamName": "Detroit Lions",
           "GoalsAgainst": 71,
           "GoalDifference": -9
@@ -263,7 +263,7 @@
           "Points": 1,
           "GoalsFor": 23,
           "Position": 19,
-          "TeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+          "TeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/p.png",
           "TeamName": "Pittsburgh Steelers",
           "GoalsAgainst": 33,
           "GoalDifference": -10
@@ -277,7 +277,7 @@
           "Points": 1,
           "GoalsFor": 33,
           "Position": 20,
-          "TeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+          "TeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/50.png",
           "TeamName": "Arizona Cardinals",
           "GoalsAgainst": 45,
           "GoalDifference": -12
@@ -305,7 +305,7 @@
           "Points": 1,
           "GoalsFor": 34,
           "Position": 22,
-          "TeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png",
+          "TeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/ng",
           "TeamName": "New York Giants",
           "GoalsAgainst": 48,
           "GoalDifference": -14
@@ -319,7 +319,7 @@
           "Points": 1,
           "GoalsFor": 30,
           "Position": 23,
-          "TeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+          "TeamLogo": "https://a.espncdn.com/i/teamlogos",
           "TeamName": "Denver Broncos",
           "GoalsAgainst": 44,
           "GoalDifference": -14
@@ -347,7 +347,7 @@
           "Points": 0,
           "GoalsFor": 46,
           "Position": 25,
-          "TeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
+          "TeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/tb.png",
           "TeamName": "Tampa Bay Buccaneers",
           "GoalsAgainst": 56,
           "GoalDifference": -10
@@ -361,7 +361,7 @@
           "Points": 0,
           "GoalsFor": 30,
           "Position": 26,
-          "TeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/ten.png",
+          "TeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500.png",
           "TeamName": "Tennessee Titans",
           "GoalsAgainst": 47,
           "GoalDifference": -17
@@ -375,7 +375,7 @@
           "Points": 0,
           "GoalsFor": 42,
           "Position": 27,
-          "TeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png",
+          "TeamLogo": "https://a.espncdn.com/i/teamlogos/nf.png",
           "TeamName": "Washington Commanders",
           "GoalsAgainst": 61,
           "GoalDifference": -19
@@ -389,7 +389,7 @@
           "Points": 0,
           "GoalsFor": 37,
           "Position": 28,
-          "TeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+          "TeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500.png",
           "TeamName": "Houston Texans",
           "GoalsAgainst": 56,
           "GoalDifference": -19
@@ -403,7 +403,7 @@
           "Points": 0,
           "GoalsFor": 53,
           "Position": 29,
-          "TeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+          "TeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/50.png",
           "TeamName": "Indianapolis Colts",
           "GoalsAgainst": 74,
           "GoalDifference": -21
@@ -417,7 +417,7 @@
           "Points": 0,
           "GoalsFor": 28,
           "Position": 30,
-          "TeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/lac.png",
+          "TeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/png",
           "TeamName": "Los Angeles Chargers",
           "GoalsAgainst": 52,
           "GoalDifference": -24
@@ -431,7 +431,7 @@
           "Points": 0,
           "GoalsFor": 26,
           "Position": 31,
-          "TeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
+          "TeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/5.png",
           "TeamName": "Miami Dolphins",
           "GoalsAgainst": 62,
           "GoalDifference": -36
@@ -445,7 +445,7 @@
           "Points": 0,
           "GoalsFor": 16,
           "Position": 32,
-          "TeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/atl.png",
+          "TeamLogo": "https://a.espncdn.com/i/teamlogos/nfl/50png",
           "TeamName": "Atlanta Falcons",
           "GoalsAgainst": 54,
           "GoalDifference": -38
